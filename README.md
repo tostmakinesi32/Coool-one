@@ -1,22 +1,17 @@
-# YOOOO
+**Hello**
 
-im a guy and i have a PC (actually)
+## my top 3 fav game
+<img width="100" src="https://github.com/user-attachments/assets/13916787-4dd2-4833-9dfe-f86ffaec2d5d" />
+<img width="100" src="https://github.com/user-attachments/assets/84319f81-9c73-4883-80c7-6b78d9bc5a1f" />
+<img width="100" src="https://github.com/user-attachments/assets/e714148a-a326-4a23-b7ba-3315339778f4" />
 
-i live on earth
+## my top 3 code language
+<img width="100" src="https://github.com/user-attachments/assets/afa35fbe-0bdc-4959-bfdd-d20f102265d8" />
+<img width="100" src="https://github.com/user-attachments/assets/69132b06-2b8e-4917-9e80-55d369ef934e" />
+<img width="100" src="https://github.com/user-attachments/assets/bc06f2a5-de11-427e-8f32-8f795e7b09cc" />
 
-i like cats
+## i am from
+<img width="100" src="https://github.com/user-attachments/assets/41f9a818-fb05-4ed6-bd03-474cb2987737" />
 
-i play game like Fortnite, fall guys, VALorant, MINECRAFT, bravl stars also geometry dash
-
-i like the letter E
-
-i make resource packs for minecraft
-
-im also a student
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&width=435&lines=Touch+some+Grass)](https://git.io/typing-svg)
-### not very social profiles :
-<a href="https://modrinth.com/user/Cool_one"><img src="https://i.imgur.com/Wi0gG3J.png" alt="modrinth" width="50" style="display: block; margin: 0 auto;"></a> <a href="https://media.istockphoto.com/id/1356466745/vector/vector-illustration-coming-soon-banner-with-clock-sign.jpg?s=612x612&w=0&k=20&c=B3zjuvyrKLWPXmadC1TptchLH6et9P9-Nrr76Pia8Lo="><img src="https://cdn.modrinth.com/data/cached_images/6a00973cc7cd2f17e0cd884253512992b78cc304.png" alt="Github" width="50"></a> 
-
-
-
+## i food like
+<img width="100" src="https://github.com/user-attachments/assets/d5f6423a-aeaa-4a0f-b45d-951d2923a7d5" />
